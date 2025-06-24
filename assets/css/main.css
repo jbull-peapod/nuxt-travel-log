@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 @plugin "daisyui" {
-  themes: light --default, abyss --prefersdark;
+  themes:
+    light --default,
+    abyss --prefersdark;
 }
