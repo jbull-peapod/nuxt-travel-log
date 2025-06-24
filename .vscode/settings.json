@@ -1,14 +1,13 @@
 {
-   // Enable the flat config support
+  // Enable the flat config support
   "eslint.experimental.useFlatConfig": true,
 
   // Disable the default formatter
   "prettier.enable": false,
   "editor.formatOnSave": false,
 
-  
   // Auto fix
-   "editor.codeActionsOnSave": {
+  "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
   },
@@ -16,8 +15,6 @@
   "files.associations": {
     "*.css": "tailwindcss"
   },
-
-  
 
   "eslint.runtime": "node",
 
