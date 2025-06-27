@@ -10,6 +10,7 @@ export default withNuxt(antfu({
   formatters: true,
   ignores: [
     '**/node_modules/**',
+    '**/migrations/**',
   ],
 }, {
   rules: {
