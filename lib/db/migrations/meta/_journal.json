@@ -8,6 +8,13 @@
       "when": 1751048709617,
       "tag": "0000_daffy_darkstar",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1751058720845,
+      "tag": "0001_regular_giant_man",
+      "breakpoints": true
     }
   ]
 }
